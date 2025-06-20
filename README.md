@@ -17,3 +17,8 @@ This repository contains practice code and examples for creating various types o
 1. Install the required libraries:
    ```bash
    pip install numpy pandas matplotlib seaborn
+
+2. Open the `matplotlib,seaborn.ipynb` notebook in Jupyter or VS Code.
+3. Run the cells to see different visualization examples.
+
+Explore and modify the notebook to practice and learn more about data visualization with Matplotlib and Seaborn.   
